@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="facebook_app_id">IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID</string>
+    <string name="facebook_client_token">IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID</string>
+</resources>
